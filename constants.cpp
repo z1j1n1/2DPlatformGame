@@ -14,4 +14,4 @@ const double Constants::InvisibleTime=40; //受伤后的无敌时间(帧数)
 const double Constants::JumpLimit=10; //下落后仍可起跳的阈值
 const double Constants::HeroMoveSpeed=12; //英雄移动速度
 const double Constants::SpringVelocity=30; //弹簧给物体的初速度
-const double Constants::HeroFireGap=20; //英雄发射子弹的间隔(帧数)
+const double Constants::HeroFireGap=15; //英雄发射子弹的间隔(帧数)
